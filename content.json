@@ -11,5 +11,21 @@
     "collections": [],
     "genre": "action",
     "description": "this is for fun"
+  },
+  {
+    "id": "cnt_bce961ab06c9",
+    "title": "keneniser",
+    "type": "series",
+    "videoId": "EbqV5CSltmA",
+    "year": 2001,
+    "durationSeconds": 3600,
+    "createdAt": "2026-09-18T05:39:17.537121Z",
+    "isFeatured": false,
+    "collections": [],
+    "genre": "romance",
+    "description": "test series",
+    "seriesId": "ser_1317bd1e21fa",
+    "episodeCode": "S01E01",
+    "episodeTitle": "this is the test ep1"
   }
 ]
