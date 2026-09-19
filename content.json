@@ -3,6 +3,7 @@
     "id": "cnt_e27553ee8472",
     "title": "oscars oasis|| some places",
     "type": "kids",
+    "videoProvider": "youtube",
     "videoId": "omwQwZ-eiT4",
     "year": 2015,
     "durationSeconds": 5435,
@@ -11,5 +12,20 @@
     "isLatest": true,
     "collections": [],
     "description": "osacrs oasis best compilations"
+  },
+  {
+    "id": "cnt_107b0b5eac35",
+    "title": "killer Bean",
+    "type": "kids",
+    "videoProvider": "youtube",
+    "videoId": "qyYHWkVWQ4o",
+    "year": 2020,
+    "durationSeconds": 5065,
+    "createdAt": "2026-09-19T10:19:21.827030Z",
+    "isFeatured": true,
+    "isLatest": true,
+    "collections": [],
+    "description": "killer bean full movie",
+    "thumbnailUrl": "https://img.youtube.com/vi/qyYHWkVWQ4o/maxresdefault.jpg"
   }
 ]
